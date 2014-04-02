@@ -1,6 +1,8 @@
-== README
+﻿== README
 
-This README would normally document whatever steps are necessary to get the
+Tento pvní řádek jsem přidal2.4.2014
+
+. a tohle je druhý řádek, přidaný později.This README would normally document whatever steps are necessary to get the
 application up and running.
 
 Things you may want to cover:
